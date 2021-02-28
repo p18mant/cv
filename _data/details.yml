@@ -8,4 +8,50 @@ urls:
 
 
 
+---
+# Personal details
+name: Dimitrios Mantzioris
+address:
+- Kastania Achilleion
+- 49084 Corfu
+- Greece
+phone: "+20 69745 00 000"
+email: p18mant@ionio.gr
+# Insert URLs without http://
+urls:
+- github.com/p18mant
 
+# Sections
+
+intro: "I know my fate."
+
+skills:
+- Engineering, Informatics
+- Tavli, Frape-Sketo
+
+experience:
+- years: 2010--2021
+  employer: Classified
+  job: Classified
+  city: Corfu
+- years: 2008–-2010
+  employer: Sita.aero
+  job: Systems Support
+  city: Corfu
+
+education:
+- year: 2014
+  subject: Master of Science in Networking and Data Communications
+  institute: Kingston University of London
+  city: London UK
+- year: 2006
+  subject: Bachelor Degree in Electronic Engineering
+  institute: Technological Education Institute of Crete
+  city: Chania
+
+# Settings
+mainfont: Hoefler Text
+fontsize: 10pt
+lang: en-GB
+geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
+---
