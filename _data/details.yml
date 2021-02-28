@@ -39,9 +39,4 @@ education:
   institute: Technological Education Institute of Crete
   city: Chania
 
-# Settings
-mainfont: Hoefler Text
-fontsize: 10pt
-lang: en-GB
-geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
 ---
