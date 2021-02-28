@@ -4,11 +4,11 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Dimitrios Mantzioris C.V.</title>
+    <title>{{site.data.details.name}}'s CV</title>
   </head>
   <body>
-    <h1>Curriculm Vitae of Dimitrios Mantzioris</h1>
-<p>Reach me at:
+    <h1>This is the {{site.data.details.name}}'s CV</h1>
+    <p>Reach me at:
     <ul>
       {% for url in site.data.details.urls %}
         <li><a href="http://{{url}}">{{url}}</a></li>
@@ -16,4 +16,3 @@
     </ul>
   </body>
 </html>
-
