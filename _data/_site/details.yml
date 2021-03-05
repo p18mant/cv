@@ -1,10 +1,23 @@
 ---
 # Personal details
 name: Dimitrios Mantzioris
-urls: https://github.com/p18mant
- - p18mant@ionio.gr
- - other
+birth: September 1983
+nationality: Greek
+place of birth: Corfu, Greece
+marrital status: Married
+placeofbirth: Corfu, Greece
+marritalstatus: Married
+address: Achilleion P.C. 49084 Corfu, Greece
+cell: 69745 00000
+email: p18mant@ionio.gr
 
+studies1: Master of Science in Networking and Data Communications. 2012 - 2014
+studies2: Bachelor Degree in Electronic Engineering. 2002 - 2006
 
+experience1: Electronic Engineer. 2010 - today
+company1: Goverment
+experience2: Electronic Engineer – Network Administrator. 2008 - 2010
+company2: Sita.aero - Pc Systems
 
-
+urls:
+ - github.com/p18mant
