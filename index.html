@@ -19,8 +19,9 @@
                      <p>E-mail :{{site.data.details.email}}
     
          <h3>Education: </h3>
-                     <p>Studies: {{site.data.details.studies1}}
-                     <p>Studies: {{site.data.details.studies2}}
+                     <p>Studies:   {{site.data.details.studies1}}
+                     <p>Studies:   {{site.data.details.studies2}}
+                     <p>Languages: {{site.data.details.languages}} 
                        
          <h4>Profesional Experience: </h4>
                      <p>Experience: {{site.data.details.experience1}}
@@ -28,7 +29,7 @@
                      <p>Experience: {{site.data.details.experience2}}
                      <p>Company: {{site.data.details.company2}}  
                        
-        <h5>Reach me at: </h5>
+         <h5>Reach me at: </h5>
             <ul>
                  {% for url in site.data.details.urls %}
         <li><a href="http://{{url}}">{{url}}</a></li>
